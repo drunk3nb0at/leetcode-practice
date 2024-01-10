@@ -1,5 +1,6 @@
 
 /*
+Question: https://leetcode.com/problems/employees-earning-more-than-their-managers/
 table: Employee
 output: name alias: Employee
 condition: Employee's salary > mployee(managerID = emloyee's)salary
