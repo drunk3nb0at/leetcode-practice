@@ -58,3 +58,9 @@ https://www.datacamp.com/blog/database-administrator-interview-questions
 
 - look for potential bottleneck, areas causing delay : full table scans, missing indexes, or inefficient joins. 
 
+- full table scan -> use index, with `WHERE` and `JOIN`
+
+### How would you handle database deadlocks?
+
+- identify root cause: log, 
+
